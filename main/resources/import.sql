@@ -1,0 +1,6 @@
+--insert into posicao values(1,"Goleiro");
+--insert into posicao values(2,"Zagueiro");
+--insert into posicao values(3,"Meio-Campo")
+--insert into posicao values(4,"Atacante");
+--
+--insert into jogador values(default,1.74,10,22,"Baresi","Direita",85.2,4);
